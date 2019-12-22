@@ -1,0 +1,17 @@
+#title,
+#description {
+  text-align: center;
+}
+
+.d3-tip {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+}
+
+.graph rect.cell:hover {
+  stroke: black;
+  stroke-width: 2;
+}
